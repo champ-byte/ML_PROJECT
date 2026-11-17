@@ -1,0 +1,24 @@
+{
+  "pages": 12,
+  "paper_and_documentation_links": 10,
+  "required_sections_and_team_details_verified": true,
+  "project_focused_limitations": true,
+  "source": "saved local artifacts; no fitting or evaluation rerun",
+  "all_12_pages_rendered_and_visually_reviewed": true,
+  "charts_corrected_and_rechecked": true,
+  "clickable_reference_links": [
+    "https://arxiv.org/abs/1905.06167",
+    "https://arxiv.org/abs/2202.12521",
+    "https://arxiv.org/abs/1603.02754",
+    "https://arxiv.org/abs/1802.03888",
+    "https://doi.org/10.1371/journal.pone.0118432",
+    "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html",
+    "https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfTransformer.html",
+    "https://xgboost.readthedocs.io/en/stable/tutorials/model.html",
+    "https://xgboost.readthedocs.io/en/stable/prediction.html",
+    "https://rapidfuzz.github.io/RapidFuzz/Usage/distance/Levenshtein.html"
+  ],
+  "sha256": "5fd6da63b8013b58fd027b96597f087402cb4452c423c2db73f5a04583207c99",
+  "paper_attachments_in_report": false,
+  "report_size_bytes": 135149
+}

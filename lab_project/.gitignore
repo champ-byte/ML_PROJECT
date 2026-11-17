@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.jupyter_runtime/
+.uv_cache/
+.uv_cache_blocking/

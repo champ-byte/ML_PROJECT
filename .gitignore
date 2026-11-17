@@ -1,0 +1,32 @@
+# Competition inputs and generated lab data stay local.
+/student_resource/dataset/
+/lab_project/data/
+/lab_project/artifacts/
+
+# Executed notebooks and HTML reports include data-derived outputs.
+# Their authoring scripts are tracked under lab_project/scripts/.
+/lab_project/notebooks/
+/lab_project/reports/
+
+# Local Python environments, caches, and runtime files.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.jupyter_runtime/
+.uv_cache*/
+.pytest_cache/
+
+# Local configuration and operating-system metadata.
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db
+
+# Local source export.
+/ML_PROJECT-source.zip
+
+# Report rendering and reference-download scratch files.
+/tmp/
